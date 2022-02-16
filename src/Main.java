@@ -12,6 +12,7 @@ public class Main {
             System.out.println(startVolume);
             startVolume = startVolume + fillingSpeed - devastationSpeed;
             for (; minute < 120; minute = minute + 5) {
+
                 continue;
             }
             if (startVolume > volume) {
