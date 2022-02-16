@@ -3,7 +3,7 @@ public class Main {
         int volume = 1200; // Объем басейна
         int fillingSpeed = 30; // Литров в минуту
         int devastationSpeed = 10; // Литров в минуту
-        int startVolume = 0;
+        int startVolume = 10;
         int minute = 10;
 
         while (true) {
