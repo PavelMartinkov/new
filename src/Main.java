@@ -4,7 +4,6 @@ public class Main {
         int fillingSpeed = 30; // Литров в минуту
         int devastationSpeed = 10; // Литров в минуту
         int startVolume = 0;
-        int minute = 10;
 
         while (true) {
             System.out.println(startVolume);
