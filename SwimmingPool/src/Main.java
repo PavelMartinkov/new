@@ -9,7 +9,7 @@ public class Main {
         while (true) {
             System.out.println(startVolume);
             startVolume = startVolume + fillingSpeed - devastationSpeed;
-            for (; minute < 60; minute = minute + 1) {
+            for (; minute < 60; minute = minute + 3) {
                 continue;
             }
             if (startVolume > volume) {
