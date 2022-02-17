@@ -1,10 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int volume = 1200; // Объем басейна
-        int fillingSpeed = 30; // Литров в минуту
-        int devastationSpeed = 10; // Литров в минуту
-        int startVolume = 0;
-        int minute = 0;
+        int fillingSpeed = 30; // Литров в минут
 
         while (true) {
             System.out.println(startVolume);
