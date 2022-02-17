@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int volume = 1200; // Объем басейна
-        int fillingSpeed = 30; // Литров в минут
+        int fillingSpeed = 4; // Литров в минут
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 int sss;
