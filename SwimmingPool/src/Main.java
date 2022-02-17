@@ -8,6 +8,7 @@ int sss;
             startVolume = startVolume + fillingSpeed - devastationSpeed;
                 continue;
             }
+        int i = 0;
             if (startVolume > volume) {
                 System.out.println("Скорость наполнения бассейна: " + minute + " минут");
                 break;
