@@ -3,8 +3,12 @@ public class Main {
         int volume = 1200; // Объем басейна
         int fillingSpeed = 30; // Литров в минут
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 int sss;
 int jgt;
+=======
+int privet;
+>>>>>>> Stashed changes
 =======
 int privet;
 >>>>>>> Stashed changes
