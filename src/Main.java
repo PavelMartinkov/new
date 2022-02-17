@@ -9,20 +9,7 @@ public class Main {
         int startVolume = 0;
         int minute = 10;
 
-=======
-        int fillingSpeed = 30; // Литров в минут
-int ololo;
->>>>>>> Stashed changes:SwimmingPool/src/Main.java
-        while (true) {
-            System.out.println(startVolume);
-            startVolume = startVolume + fillingSpeed - devastationSpeed;
-            for (; minute < 120; minute = minute + 5) {
 
-                continue;
-            }
-            if (startVolume > volume) {
-                System.out.println("Скорость наполнения бассейна: " + minute + " минут");
-                break;
             }
         }
     }
