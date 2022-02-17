@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int volume = 1200; // Объем басейна
+        int volume = 1000; // Объем басейна
         int fillingSpeed = 30; // Литров в минуту
         int devastationSpeed = 10; // Литров в минуту
         int startVolume = 0;
