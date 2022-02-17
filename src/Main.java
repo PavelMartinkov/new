@@ -6,9 +6,9 @@ public class Main {
         int fillingSpeed = 30; // Литров в минуту
         int devastationSpeed = 10; // Литров в минуту
         int startVolume = 0;
-        int startVolume = 10;
-        int startVolume = 0;
-        int minute = 10;
+        int dlcsd;
+        double kjdsj =1.23;
+
 
 =
             for (; minute < 120; minute = minute + 1) {
