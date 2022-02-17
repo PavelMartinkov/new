@@ -3,6 +3,7 @@ public class Main {
         int volume = 1200; // Объем басейна
         int fillingSpeed = 30; // Литров в минут
 int sss;
+int jgt;
         while (true) {
             System.out.println(startVolume);
             startVolume = startVolume + fillingSpeed - devastationSpeed;
